@@ -18,7 +18,7 @@ This dashboard solves these problems by providing a centralized and interactive 
 
 ---
 
-## 8. Dashboard Preview
+Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
 ## 3. Key Metrics
