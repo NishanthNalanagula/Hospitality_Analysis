@@ -18,8 +18,8 @@ This dashboard solves these problems by providing a centralized and interactive 
 
 ---
 
-Dashboard Preview
-![Dashboard]()
+### Dashboard Preview
+![Dashboard](https://github.com/NishanthNalanagula/Hospitality_Analysis/blob/main/Hospitality_Analysis_Dashboard.png)
 
 ## 3. Key Metrics
 - Revenue: 1.69 Billion
